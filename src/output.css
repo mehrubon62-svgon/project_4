@@ -189,6 +189,9 @@
   .mt-\[40px\] {
     margin-top: 40px;
   }
+  .mb-\[30px\] {
+    margin-bottom: 30px;
+  }
   .flex {
     display: flex;
   }
@@ -227,6 +230,9 @@
   }
   .w-\[287px\] {
     width: 287px;
+  }
+  .w-\[370px\] {
+    width: 370px;
   }
   .w-\[484px\] {
     width: 484px;
@@ -272,6 +278,9 @@
   }
   .justify-evenly {
     justify-content: space-evenly;
+  }
+  .gap-\[1\] {
+    gap: 1;
   }
   .gap-\[2px\] {
     gap: 2px;
@@ -333,6 +342,9 @@
   .rounded-\[20px\] {
     border-radius: 20px;
   }
+  .rounded-\[40px\] {
+    border-radius: 40px;
+  }
   .rounded-\[41px\] {
     border-radius: 41px;
   }
@@ -359,8 +371,14 @@
   .border-\[white\] {
     border-color: white;
   }
+  .bg-\[\#1E96C8\] {
+    background-color: #1E96C8;
+  }
   .bg-\[\#3A62FF\] {
     background-color: #3A62FF;
+  }
+  .bg-\[\#854ABA\] {
+    background-color: #854ABA;
   }
   .bg-\[\#E6EBFF\] {
     background-color: #E6EBFF;
@@ -422,6 +440,9 @@
   .px-\[7px\] {
     padding-inline: 7px;
   }
+  .px-\[9px\] {
+    padding-inline: 9px;
+  }
   .px-\[11px\] {
     padding-inline: 11px;
   }
@@ -446,6 +467,12 @@
   .py-\[10px\] {
     padding-block: 10px;
   }
+  .py-\[11px\] {
+    padding-block: 11px;
+  }
+  .py-\[13px\] {
+    padding-block: 13px;
+  }
   .py-\[15px\] {
     padding-block: 15px;
   }
@@ -467,6 +494,9 @@
   .pt-\[25px\] {
     padding-top: 25px;
   }
+  .pt-\[30px\] {
+    padding-top: 30px;
+  }
   .pt-\[130px\] {
     padding-top: 130px;
   }
@@ -484,6 +514,9 @@
   }
   .pb-\[60px\] {
     padding-bottom: 60px;
+  }
+  .pb-\[70px\] {
+    padding-bottom: 70px;
   }
   .pb-\[80px\] {
     padding-bottom: 80px;
@@ -549,9 +582,17 @@
     --tw-leading: 24px;
     line-height: 24px;
   }
+  .leading-\[100\%\] {
+    --tw-leading: 100%;
+    line-height: 100%;
+  }
   .leading-\[150\%\] {
     --tw-leading: 150%;
     line-height: 150%;
+  }
+  .font-\[70\] {
+    --tw-font-weight: 70;
+    font-weight: 70;
   }
   .font-\[400\] {
     --tw-font-weight: 400;
@@ -598,6 +639,15 @@
   }
   .underline {
     text-decoration-line: underline;
+  }
+  .decoration-\[\#FFA63A\] {
+    text-decoration-color: #FFA63A;
+  }
+  .decoration-2 {
+    text-decoration-thickness: 2px;
+  }
+  .decoration-3 {
+    text-decoration-thickness: 3px;
   }
   .outline {
     outline-style: var(--tw-outline-style);
